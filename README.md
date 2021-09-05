@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hello!
+Adding additional description in new branch to test 'commit changes'
